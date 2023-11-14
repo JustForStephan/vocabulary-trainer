@@ -1,0 +1,36 @@
+
+successful = erfolgreich
+interactive = interaktiv
+to distribute = verteilen
+nickname = Spitzname
+to prevent = verhindern
+to forget = vergessen
+love = Liebe
+I don't care = Es ist mir egal
+possible = möglich
+bright = hell
+funny = lustig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

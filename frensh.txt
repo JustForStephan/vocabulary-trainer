@@ -1,0 +1,9 @@
+
+successful = réussi
+to learn = apprendre
+like = aimer
+eat = manger
+go out = sortir
+tidy = ranger
+to laugh = rire
+I would like = Je voudrais
